@@ -1,6 +1,12 @@
+## 📸 Showcase
+
+| Setup Screen | Live Stream |
+| :-: | :---: |
+| <video src="https://github.com/user-attachments/assets/fd1b70fb-b72a-4079-a215-d1ee59b0d6ca" /> | <video src="https://github.com/user-attachments/assets/530e0016-433b-4fff-b641-40a695138bff" width="300" />  |
+
 # FakeIGLive
 
-A professional Android application that simulates the Instagram Live broadcasting experience. Built with modern Android development standards, this project serves as a showcase for Clean Architecture, MVI, and high-performance UI animations.
+Simple Android app that simulates the Instagram Live broadcasting experience. Built with modern Android development standards, this project serves as a showcase for Clean Architecture, MVI, and high-performance UI animations.
 
 ## 🚀 Key Features
 - **Simulated Live Stream:** Real-time comment feed, fluctuating viewer counts, and high-frequency heart burst animations using Kotlin Flow.
