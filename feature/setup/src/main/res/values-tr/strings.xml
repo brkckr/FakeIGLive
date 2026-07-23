@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_title">Canlı yayını oluştur</string>
+    <string name="setup_subtitle">İzleyicilerin ekranda göreceği kimliğini seç.</string>
+    <string name="setup_choose_profile_photo">Profil fotoğrafı seç</string>
+    <string name="setup_change_profile_photo">Profil fotoğrafını değiştir</string>
+    <string name="setup_username_label">Kullanıcı adı</string>
+    <string name="setup_username_placeholder">kullanici_adin</string>
+    <string name="setup_username_support">3–30 karakter arası kullanın.</string>
+    <string name="setup_start_live">Canlı Yayına Başla</string>
+    <string name="setup_privacy_note">Seçilen fotoğraf cihazınızda kalır.</string>
+    <string name="setup_error_username_too_short">Kullanıcı adı en az 3 karakter olmalıdır.</string>
+    <string name="setup_error_photo_required">Lütfen bir profil fotoğrafı seçin.</string>
+</resources>

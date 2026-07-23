@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_badge">LIVE</string>
+    <string name="live_viewer_count">Viewer count</string>
+    <string name="live_close_live">Close live</string>
+    <string name="live_mute_microphone">Mute microphone</string>
+    <string name="live_unmute_microphone">Unmute microphone</string>
+    <string name="live_turn_camera_off">Turn camera off</string>
+    <string name="live_turn_camera_on">Turn camera on</string>
+    <string name="live_switch_camera">Switch camera</string>
+    <string name="live_toggle_effects">Toggle effects</string>
+    <string name="live_camera_off">Camera is off</string>
+    <string name="live_camera_permission_needed">Camera access is needed for the live preview.</string>
+    <string name="live_camera_unavailable">Camera preview is unavailable.</string>
+    <string name="live_enable_camera">Enable camera</string>
+    <string name="live_add_comment">Add a comment…</string>
+    <string name="live_send_heart">Send a heart</string>
+    <string name="live_send_comment">Send comment</string>
+    <string name="live_question">Live questions</string>
+    <string name="live_error_comments">Failed to load comments</string>
+    <string name="live_error_viewers">Failed to update viewer count</string>
+    <string name="live_error_stream">Comment stream interrupted</string>
+</resources>

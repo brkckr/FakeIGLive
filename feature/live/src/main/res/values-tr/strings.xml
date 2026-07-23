@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="live_badge">CANLI</string>
+    <string name="live_viewer_count">İzleyici sayısı</string>
+    <string name="live_close_live">Yayını kapat</string>
+    <string name="live_mute_microphone">Mikrofonu kapat</string>
+    <string name="live_unmute_microphone">Mikrofonu aç</string>
+    <string name="live_turn_camera_off">Kamerayı kapat</string>
+    <string name="live_turn_camera_on">Kamerayı aç</string>
+    <string name="live_switch_camera">Kamerayı değiştir</string>
+    <string name="live_toggle_effects">Efektleri aç/kapat</string>
+    <string name="live_camera_off">Kamera kapalı</string>
+    <string name="live_camera_permission_needed">Canlı önizleme için kamera erişimi gereklidir.</string>
+    <string name="live_camera_unavailable">Kamera önizlemesi kullanılamıyor.</string>
+    <string name="live_enable_camera">Kamerayı etkinleştir</string>
+    <string name="live_add_comment">Yorum ekle…</string>
+    <string name="live_send_heart">Kalp gönder</string>
+    <string name="live_send_comment">Yorum gönder</string>
+    <string name="live_question">Canlı sorular</string>
+    <string name="live_error_comments">Yorumlar yüklenirken hata oluştu</string>
+    <string name="live_error_viewers">İzleyici sayısı güncellenemedi</string>
+    <string name="live_error_stream">Yorum akışında kesinti oluştu</string>
+</resources>

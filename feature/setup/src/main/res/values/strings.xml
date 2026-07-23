@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="setup_title">Create your live</string>
+    <string name="setup_subtitle">Pick the identity your audience will see on screen.</string>
+    <string name="setup_choose_profile_photo">Choose profile photo</string>
+    <string name="setup_change_profile_photo">Change profile photo</string>
+    <string name="setup_username_label">Username</string>
+    <string name="setup_username_placeholder">your_username</string>
+    <string name="setup_username_support">Use 3–30 characters.</string>
+    <string name="setup_start_live">Start Live</string>
+    <string name="setup_privacy_note">Your selected photo stays on this device.</string>
+    <string name="setup_error_username_too_short">Username must be at least 3 characters.</string>
+    <string name="setup_error_photo_required">Please select a profile photo.</string>
+</resources>
